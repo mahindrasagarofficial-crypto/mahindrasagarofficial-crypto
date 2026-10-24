@@ -20,9 +20,14 @@ A multi-tenant SaaS that tracks every licence and certificate for US retail stor
 
 ➡️ **[Read the case study](https://github.com/mahindrasagarofficial-crypto/getlali-case-study)** (the source code is private because it's a live client product)
 
-### Also building
-- **AI Fashion Studio:** AI on-model photoshoots for Indian garment sellers
-- **GrowViya audit agent:** a Python tool that audits business websites and generates leads
+### [AI Fashion Studio: AI on-model photoshoots for garment sellers](https://github.com/mahindrasagarofficial-crypto/ai-fashion-studio-case-study)
+Upload one garment photo and get on-model catalogue images. A TypeScript monorepo with NestJS, a BullMQ job pipeline, Postgres Row Level Security, multiple AI providers with automatic fallback, and pay-only-for-accepted-images credits. Built from my 12 years in garment manufacturing.
+
+### [GrowViya Audit Agent: AI website audits for lead generation](https://github.com/mahindrasagarofficial-crypto/growviya-audit-agent-case-study)
+Python + FastAPI tool that audits SEO, speed and social presence, then writes client-ready reports. Rules decide the findings and AI only describes them, so there are no made-up problems in front of a client.
+
+### [VendorRunway: retail media network for convenience stores](https://github.com/mahindrasagarofficial-crypto/vendorrunway-case-study)
+A three-sided Next.js + Supabase demo connecting FMCG vendors with store owners for in-store promotions, plus the pitch deck.
 
 ---
 
