@@ -23,6 +23,11 @@ A multi-tenant SaaS that tracks every licence and certificate for US retail stor
 ### [AI Fashion Studio: AI on-model photoshoots for garment sellers](https://github.com/mahindrasagarofficial-crypto/ai-fashion-studio-case-study)
 Upload one garment photo and get on-model catalogue images. A TypeScript monorepo with NestJS, a BullMQ job pipeline, Postgres Row Level Security, multiple AI providers with automatic fallback, and pay-only-for-accepted-images credits. Built from my 12 years in garment manufacturing.
 
+### [AI Knowledge Agent: group chats in, cited answers out](https://github.com/mahindrasagarofficial-crypto/ai-knowledge-agent-case-study)
+An agent that listens to busy group chats, picks out the real questions and answers, reads images, PDFs and voice notes, and filters out private details before anything is stored. Ask it a question and it answers with the message the answer came from. If it doesn't know, it says so and flags the question for a person.
+
+![AI Knowledge Agent demo](https://raw.githubusercontent.com/mahindrasagarofficial-crypto/ai-knowledge-agent-case-study/main/demo.gif)
+
 ### [GrowViya Audit Agent: AI website audits for lead generation](https://github.com/mahindrasagarofficial-crypto/growviya-audit-agent-case-study)
 Python + FastAPI tool that audits SEO, speed and social presence, then writes client-ready reports. Rules decide the findings and AI only describes them, so there are no made-up problems in front of a client.
 
@@ -46,6 +51,6 @@ A three-sided Next.js + Supabase demo connecting FMCG vendors with store owners 
 ---
 
 ## 📫 Work with me
-- **Upwork:** [Sagar M.: AI SaaS MVP Builder](https://www.upwork.com/freelancers/~01c726d9217f6052ca)
+- **Upwork:** [Sagar M.: AI Agents & SaaS MVP Builder | Fashion AI](https://www.upwork.com/freelancers/~01c726d9217f6052ca)
 - **LinkedIn:** [linkedin.com/in/sagar-m-902965416](https://www.linkedin.com/in/sagar-m-902965416)
 - **Email:** mahindrasagarofficial@gmail.com
